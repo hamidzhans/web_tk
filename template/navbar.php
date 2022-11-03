@@ -18,8 +18,8 @@
         <div class="list">
             <a href="index.php">Home</a>
             <a href="tk-page.php">Data TK</a>
-            <a href="">Daftar Tk</a>
-            <a href="">Kelulusan</a>
-            <a href="">Login</a>
+            <a href="daftar-page.php">Daftar Tk</a>
+            <a href="lulus-page.php">Kelulusan</a>
+            <a href="login.php">Login</a>
         </div>
     </section>
